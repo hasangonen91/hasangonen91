@@ -56,5 +56,4 @@
 
 
 
-[Hasan_Gonen_CV.pdf]([HasanGonenCV.pdf](https://github.com/hasangonen91/hasangonen91/files/13361701/HasanGonenCV.pdf)
-))
+[Hasan_Gonen_CV.pdf]([HasanGonenCV.pdf](https://github.com/hasangonen91/hasangonen91/files/13361701/HasanGonenCV.pdf))
