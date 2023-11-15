@@ -55,5 +55,4 @@
 </p>
 
 
-xfun::embed_file([HasanGonenCV.pdf](https://github.com/hasangonen91/hasangonen91/files/13361701/HasanGonenCV.pdf))
-[HasanGonenCV.pdf]([HasanGonenCV.pdf](https://github.com/hasangonen91/hasangonen91/files/13361701/HasanGonenCV.pdf))
+([HasanGonenCV.pdf](https://github.com/hasangonen91/hasangonen91/files/13361701/HasanGonenCV.pdf))
